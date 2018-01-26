@@ -7,37 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		9636DC161FE1226E005B93BD /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9636DC151FE1226E005B93BD /* Default-568h@2x.png */; };
-		9636DC731FE122CF005B93BD /* ape_fwk_all.png in Resources */ = {isa = PBXBuildFile; fileRef = 9636DC181FE122CF005B93BD /* ape_fwk_all.png */; };
 		9636DC741FE122CF005B93BD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9636DC191FE122CF005B93BD /* AppDelegate.swift */; };
 		9636DC751FE122CF005B93BD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9636DC1A1FE122CF005B93BD /* Assets.xcassets */; };
-		9636DC761FE122CF005B93BD /* WPAngleRuler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9636DC1C1FE122CF005B93BD /* WPAngleRuler.swift */; };
-		9636DC771FE122CF005B93BD /* WPFreePathView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9636DC1D1FE122CF005B93BD /* WPFreePathView.swift */; };
 		9636DC781FE122CF005B93BD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9636DC1F1FE122CF005B93BD /* LaunchScreen.storyboard */; };
 		9636DC791FE122CF005B93BD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9636DC211FE122CF005B93BD /* Main.storyboard */; };
-		9636DC7A1FE122CF005B93BD /* cancel.png in Resources */ = {isa = PBXBuildFile; fileRef = 9636DC231FE122CF005B93BD /* cancel.png */; };
-		9636DC7B1FE122CF005B93BD /* center.png in Resources */ = {isa = PBXBuildFile; fileRef = 9636DC241FE122CF005B93BD /* center.png */; };
-		9636DC7C1FE122CF005B93BD /* center.selected.png in Resources */ = {isa = PBXBuildFile; fileRef = 9636DC251FE122CF005B93BD /* center.selected.png */; };
-		9636DC7D1FE122CF005B93BD /* crop.png in Resources */ = {isa = PBXBuildFile; fileRef = 9636DC261FE122CF005B93BD /* crop.png */; };
-		9636DC7E1FE122CF005B93BD /* crop.selected.png in Resources */ = {isa = PBXBuildFile; fileRef = 9636DC271FE122CF005B93BD /* crop.selected.png */; };
-		9636DC7F1FE122CF005B93BD /* crop_169.png in Resources */ = {isa = PBXBuildFile; fileRef = 9636DC281FE122CF005B93BD /* crop_169.png */; };
-		9636DC801FE122CF005B93BD /* crop_43.png in Resources */ = {isa = PBXBuildFile; fileRef = 9636DC291FE122CF005B93BD /* crop_43.png */; };
-		9636DC811FE122CF005B93BD /* crop_canvas.png in Resources */ = {isa = PBXBuildFile; fileRef = 9636DC2A1FE122CF005B93BD /* crop_canvas.png */; };
-		9636DC821FE122CF005B93BD /* crop_circle.png in Resources */ = {isa = PBXBuildFile; fileRef = 9636DC2B1FE122CF005B93BD /* crop_circle.png */; };
-		9636DC831FE122CF005B93BD /* crop_free.png in Resources */ = {isa = PBXBuildFile; fileRef = 9636DC2C1FE122CF005B93BD /* crop_free.png */; };
-		9636DC841FE122CF005B93BD /* crop_free.selected.png in Resources */ = {isa = PBXBuildFile; fileRef = 9636DC2D1FE122CF005B93BD /* crop_free.selected.png */; };
-		9636DC851FE122CF005B93BD /* crop_image.png in Resources */ = {isa = PBXBuildFile; fileRef = 9636DC2E1FE122CF005B93BD /* crop_image.png */; };
-		9636DC861FE122CF005B93BD /* crop_oval.png in Resources */ = {isa = PBXBuildFile; fileRef = 9636DC2F1FE122CF005B93BD /* crop_oval.png */; };
-		9636DC871FE122CF005B93BD /* crop_path_c.png in Resources */ = {isa = PBXBuildFile; fileRef = 9636DC301FE122CF005B93BD /* crop_path_c.png */; };
-		9636DC881FE122CF005B93BD /* crop_path_s.png in Resources */ = {isa = PBXBuildFile; fileRef = 9636DC311FE122CF005B93BD /* crop_path_s.png */; };
-		9636DC891FE122CF005B93BD /* crop_polygon.png in Resources */ = {isa = PBXBuildFile; fileRef = 9636DC321FE122CF005B93BD /* crop_polygon.png */; };
-		9636DC8A1FE122CF005B93BD /* crop_square.png in Resources */ = {isa = PBXBuildFile; fileRef = 9636DC331FE122CF005B93BD /* crop_square.png */; };
-		9636DC8B1FE122CF005B93BD /* crop_triangle.png in Resources */ = {isa = PBXBuildFile; fileRef = 9636DC341FE122CF005B93BD /* crop_triangle.png */; };
-		9636DC8C1FE122CF005B93BD /* done.png in Resources */ = {isa = PBXBuildFile; fileRef = 9636DC351FE122CF005B93BD /* done.png */; };
-		9636DC8D1FE122CF005B93BD /* WPExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9636DC371FE122CF005B93BD /* WPExtension.swift */; };
-		9636DC8E1FE122CF005B93BD /* fullCanvas.png in Resources */ = {isa = PBXBuildFile; fileRef = 9636DC381FE122CF005B93BD /* fullCanvas.png */; };
-		9636DC8F1FE122CF005B93BD /* fullCanvas_scaleFill.png in Resources */ = {isa = PBXBuildFile; fileRef = 9636DC391FE122CF005B93BD /* fullCanvas_scaleFill.png */; };
-		9636DC901FE122CF005B93BD /* fullCanvas_scaleFit.png in Resources */ = {isa = PBXBuildFile; fileRef = 9636DC3A1FE122CF005B93BD /* fullCanvas_scaleFit.png */; };
 		9636DC911FE122CF005B93BD /* cancel.png in Resources */ = {isa = PBXBuildFile; fileRef = 9636DC3C1FE122CF005B93BD /* cancel.png */; };
 		9636DC921FE122CF005B93BD /* center.png in Resources */ = {isa = PBXBuildFile; fileRef = 9636DC3D1FE122CF005B93BD /* center.png */; };
 		9636DC931FE122CF005B93BD /* center.selected.png in Resources */ = {isa = PBXBuildFile; fileRef = 9636DC3E1FE122CF005B93BD /* center.selected.png */; };
@@ -71,20 +44,7 @@
 		9636DCAF1FE122CF005B93BD /* rotate_right.png in Resources */ = {isa = PBXBuildFile; fileRef = 9636DC5A1FE122CF005B93BD /* rotate_right.png */; };
 		9636DCB01FE122CF005B93BD /* undo.png in Resources */ = {isa = PBXBuildFile; fileRef = 9636DC5B1FE122CF005B93BD /* undo.png */; };
 		9636DCB11FE122CF005B93BD /* ImageEditor2Nib.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9636DC5C1FE122CF005B93BD /* ImageEditor2Nib.xib */; };
-		9636DCB21FE122CF005B93BD /* index.png in Resources */ = {isa = PBXBuildFile; fileRef = 9636DC5D1FE122CF005B93BD /* index.png */; };
 		9636DCB31FE122CF005B93BD /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 9636DC5E1FE122CF005B93BD /* Info.plist */; };
-		9636DCB41FE122CF005B93BD /* WPBaseEditorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9636DC601FE122CF005B93BD /* WPBaseEditorView.swift */; };
-		9636DCB51FE122CF005B93BD /* WPCropEditorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9636DC611FE122CF005B93BD /* WPCropEditorView.swift */; };
-		9636DCB61FE122CF005B93BD /* WPSideMenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9636DC621FE122CF005B93BD /* WPSideMenu.swift */; };
-		9636DCB71FE122CF005B93BD /* mark.png in Resources */ = {isa = PBXBuildFile; fileRef = 9636DC631FE122CF005B93BD /* mark.png */; };
-		9636DCB81FE122CF005B93BD /* mark2.png in Resources */ = {isa = PBXBuildFile; fileRef = 9636DC641FE122CF005B93BD /* mark2.png */; };
-		9636DCB91FE122CF005B93BD /* redo.png in Resources */ = {isa = PBXBuildFile; fileRef = 9636DC651FE122CF005B93BD /* redo.png */; };
-		9636DCBA1FE122CF005B93BD /* rotate.png in Resources */ = {isa = PBXBuildFile; fileRef = 9636DC661FE122CF005B93BD /* rotate.png */; };
-		9636DCBB1FE122CF005B93BD /* rotate.selected.png in Resources */ = {isa = PBXBuildFile; fileRef = 9636DC671FE122CF005B93BD /* rotate.selected.png */; };
-		9636DCBC1FE122CF005B93BD /* rotate_90.png in Resources */ = {isa = PBXBuildFile; fileRef = 9636DC681FE122CF005B93BD /* rotate_90.png */; };
-		9636DCBD1FE122CF005B93BD /* rotate_left.png in Resources */ = {isa = PBXBuildFile; fileRef = 9636DC691FE122CF005B93BD /* rotate_left.png */; };
-		9636DCBE1FE122CF005B93BD /* rotate_right.png in Resources */ = {isa = PBXBuildFile; fileRef = 9636DC6A1FE122CF005B93BD /* rotate_right.png */; };
-		9636DCBF1FE122CF005B93BD /* undo.png in Resources */ = {isa = PBXBuildFile; fileRef = 9636DC6B1FE122CF005B93BD /* undo.png */; };
 		9636DCC01FE122CF005B93BD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9636DC6C1FE122CF005B93BD /* ViewController.swift */; };
 		9636DCC11FE122CF005B93BD /* WPAngleRuler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9636DC6D1FE122CF005B93BD /* WPAngleRuler.swift */; };
 		9636DCC21FE122CF005B93BD /* WPBaseEditorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9636DC6E1FE122CF005B93BD /* WPBaseEditorView.swift */; };
@@ -92,40 +52,14 @@
 		9636DCC41FE122CF005B93BD /* WPExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9636DC701FE122CF005B93BD /* WPExtension.swift */; };
 		9636DCC51FE122CF005B93BD /* WPFreePathView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9636DC711FE122CF005B93BD /* WPFreePathView.swift */; };
 		9636DCC61FE122CF005B93BD /* WPSideMenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9636DC721FE122CF005B93BD /* WPSideMenu.swift */; };
+		96E3437A201AFEE800AB031E /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 96E34379201AFEE800AB031E /* Default-568h@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		9636DC151FE1226E005B93BD /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
-		9636DC181FE122CF005B93BD /* ape_fwk_all.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ape_fwk_all.png; sourceTree = "<group>"; };
 		9636DC191FE122CF005B93BD /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9636DC1A1FE122CF005B93BD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		9636DC1C1FE122CF005B93BD /* WPAngleRuler.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WPAngleRuler.swift; sourceTree = "<group>"; };
-		9636DC1D1FE122CF005B93BD /* WPFreePathView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WPFreePathView.swift; sourceTree = "<group>"; };
 		9636DC201FE122CF005B93BD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9636DC221FE122CF005B93BD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		9636DC231FE122CF005B93BD /* cancel.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cancel.png; sourceTree = "<group>"; };
-		9636DC241FE122CF005B93BD /* center.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = center.png; sourceTree = "<group>"; };
-		9636DC251FE122CF005B93BD /* center.selected.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = center.selected.png; sourceTree = "<group>"; };
-		9636DC261FE122CF005B93BD /* crop.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = crop.png; sourceTree = "<group>"; };
-		9636DC271FE122CF005B93BD /* crop.selected.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = crop.selected.png; sourceTree = "<group>"; };
-		9636DC281FE122CF005B93BD /* crop_169.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = crop_169.png; sourceTree = "<group>"; };
-		9636DC291FE122CF005B93BD /* crop_43.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = crop_43.png; sourceTree = "<group>"; };
-		9636DC2A1FE122CF005B93BD /* crop_canvas.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = crop_canvas.png; sourceTree = "<group>"; };
-		9636DC2B1FE122CF005B93BD /* crop_circle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = crop_circle.png; sourceTree = "<group>"; };
-		9636DC2C1FE122CF005B93BD /* crop_free.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = crop_free.png; sourceTree = "<group>"; };
-		9636DC2D1FE122CF005B93BD /* crop_free.selected.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = crop_free.selected.png; sourceTree = "<group>"; };
-		9636DC2E1FE122CF005B93BD /* crop_image.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = crop_image.png; sourceTree = "<group>"; };
-		9636DC2F1FE122CF005B93BD /* crop_oval.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = crop_oval.png; sourceTree = "<group>"; };
-		9636DC301FE122CF005B93BD /* crop_path_c.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = crop_path_c.png; sourceTree = "<group>"; };
-		9636DC311FE122CF005B93BD /* crop_path_s.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = crop_path_s.png; sourceTree = "<group>"; };
-		9636DC321FE122CF005B93BD /* crop_polygon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = crop_polygon.png; sourceTree = "<group>"; };
-		9636DC331FE122CF005B93BD /* crop_square.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = crop_square.png; sourceTree = "<group>"; };
-		9636DC341FE122CF005B93BD /* crop_triangle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = crop_triangle.png; sourceTree = "<group>"; };
-		9636DC351FE122CF005B93BD /* done.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = done.png; sourceTree = "<group>"; };
-		9636DC371FE122CF005B93BD /* WPExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WPExtension.swift; sourceTree = "<group>"; };
-		9636DC381FE122CF005B93BD /* fullCanvas.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fullCanvas.png; sourceTree = "<group>"; };
-		9636DC391FE122CF005B93BD /* fullCanvas_scaleFill.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fullCanvas_scaleFill.png; sourceTree = "<group>"; };
-		9636DC3A1FE122CF005B93BD /* fullCanvas_scaleFit.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fullCanvas_scaleFit.png; sourceTree = "<group>"; };
 		9636DC3C1FE122CF005B93BD /* cancel.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cancel.png; sourceTree = "<group>"; };
 		9636DC3D1FE122CF005B93BD /* center.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = center.png; sourceTree = "<group>"; };
 		9636DC3E1FE122CF005B93BD /* center.selected.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = center.selected.png; sourceTree = "<group>"; };
@@ -159,20 +93,7 @@
 		9636DC5A1FE122CF005B93BD /* rotate_right.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = rotate_right.png; sourceTree = "<group>"; };
 		9636DC5B1FE122CF005B93BD /* undo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = undo.png; sourceTree = "<group>"; };
 		9636DC5C1FE122CF005B93BD /* ImageEditor2Nib.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ImageEditor2Nib.xib; sourceTree = "<group>"; };
-		9636DC5D1FE122CF005B93BD /* index.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = index.png; sourceTree = "<group>"; };
 		9636DC5E1FE122CF005B93BD /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		9636DC601FE122CF005B93BD /* WPBaseEditorView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WPBaseEditorView.swift; sourceTree = "<group>"; };
-		9636DC611FE122CF005B93BD /* WPCropEditorView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WPCropEditorView.swift; sourceTree = "<group>"; };
-		9636DC621FE122CF005B93BD /* WPSideMenu.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WPSideMenu.swift; sourceTree = "<group>"; };
-		9636DC631FE122CF005B93BD /* mark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mark.png; sourceTree = "<group>"; };
-		9636DC641FE122CF005B93BD /* mark2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mark2.png; sourceTree = "<group>"; };
-		9636DC651FE122CF005B93BD /* redo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = redo.png; sourceTree = "<group>"; };
-		9636DC661FE122CF005B93BD /* rotate.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = rotate.png; sourceTree = "<group>"; };
-		9636DC671FE122CF005B93BD /* rotate.selected.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = rotate.selected.png; sourceTree = "<group>"; };
-		9636DC681FE122CF005B93BD /* rotate_90.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = rotate_90.png; sourceTree = "<group>"; };
-		9636DC691FE122CF005B93BD /* rotate_left.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = rotate_left.png; sourceTree = "<group>"; };
-		9636DC6A1FE122CF005B93BD /* rotate_right.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = rotate_right.png; sourceTree = "<group>"; };
-		9636DC6B1FE122CF005B93BD /* undo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = undo.png; sourceTree = "<group>"; };
 		9636DC6C1FE122CF005B93BD /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		9636DC6D1FE122CF005B93BD /* WPAngleRuler.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WPAngleRuler.swift; sourceTree = "<group>"; };
 		9636DC6E1FE122CF005B93BD /* WPBaseEditorView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WPBaseEditorView.swift; sourceTree = "<group>"; };
@@ -181,6 +102,7 @@
 		9636DC711FE122CF005B93BD /* WPFreePathView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WPFreePathView.swift; sourceTree = "<group>"; };
 		9636DC721FE122CF005B93BD /* WPSideMenu.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WPSideMenu.swift; sourceTree = "<group>"; };
 		966025481FAC45A200BEA651 /* imageEditor.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = imageEditor.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		96E34379201AFEE800AB031E /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -194,88 +116,6 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		9636DC171FE122CF005B93BD /* class */ = {
-			isa = PBXGroup;
-			children = (
-				9636DC181FE122CF005B93BD /* ape_fwk_all.png */,
-				9636DC191FE122CF005B93BD /* AppDelegate.swift */,
-				9636DC1A1FE122CF005B93BD /* Assets.xcassets */,
-				9636DC1B1FE122CF005B93BD /* base */,
-				9636DC1F1FE122CF005B93BD /* LaunchScreen.storyboard */,
-				9636DC211FE122CF005B93BD /* Main.storyboard */,
-				9636DC231FE122CF005B93BD /* cancel.png */,
-				9636DC241FE122CF005B93BD /* center.png */,
-				9636DC251FE122CF005B93BD /* center.selected.png */,
-				9636DC261FE122CF005B93BD /* crop.png */,
-				9636DC271FE122CF005B93BD /* crop.selected.png */,
-				9636DC281FE122CF005B93BD /* crop_169.png */,
-				9636DC291FE122CF005B93BD /* crop_43.png */,
-				9636DC2A1FE122CF005B93BD /* crop_canvas.png */,
-				9636DC2B1FE122CF005B93BD /* crop_circle.png */,
-				9636DC2C1FE122CF005B93BD /* crop_free.png */,
-				9636DC2D1FE122CF005B93BD /* crop_free.selected.png */,
-				9636DC2E1FE122CF005B93BD /* crop_image.png */,
-				9636DC2F1FE122CF005B93BD /* crop_oval.png */,
-				9636DC301FE122CF005B93BD /* crop_path_c.png */,
-				9636DC311FE122CF005B93BD /* crop_path_s.png */,
-				9636DC321FE122CF005B93BD /* crop_polygon.png */,
-				9636DC331FE122CF005B93BD /* crop_square.png */,
-				9636DC341FE122CF005B93BD /* crop_triangle.png */,
-				9636DC351FE122CF005B93BD /* done.png */,
-				9636DC361FE122CF005B93BD /* extension */,
-				9636DC381FE122CF005B93BD /* fullCanvas.png */,
-				9636DC391FE122CF005B93BD /* fullCanvas_scaleFill.png */,
-				9636DC3A1FE122CF005B93BD /* fullCanvas_scaleFit.png */,
-				9636DC3B1FE122CF005B93BD /* icons */,
-				9636DC5C1FE122CF005B93BD /* ImageEditor2Nib.xib */,
-				9636DC5D1FE122CF005B93BD /* index.png */,
-				9636DC5E1FE122CF005B93BD /* Info.plist */,
-				9636DC5F1FE122CF005B93BD /* kernel */,
-				9636DC631FE122CF005B93BD /* mark.png */,
-				9636DC641FE122CF005B93BD /* mark2.png */,
-				9636DC651FE122CF005B93BD /* redo.png */,
-				9636DC661FE122CF005B93BD /* rotate.png */,
-				9636DC671FE122CF005B93BD /* rotate.selected.png */,
-				9636DC681FE122CF005B93BD /* rotate_90.png */,
-				9636DC691FE122CF005B93BD /* rotate_left.png */,
-				9636DC6A1FE122CF005B93BD /* rotate_right.png */,
-				9636DC6B1FE122CF005B93BD /* undo.png */,
-				9636DC6C1FE122CF005B93BD /* ViewController.swift */,
-				9636DC6D1FE122CF005B93BD /* WPAngleRuler.swift */,
-				9636DC6E1FE122CF005B93BD /* WPBaseEditorView.swift */,
-				9636DC6F1FE122CF005B93BD /* WPCropEditorView.swift */,
-				9636DC701FE122CF005B93BD /* WPExtension.swift */,
-				9636DC711FE122CF005B93BD /* WPFreePathView.swift */,
-				9636DC721FE122CF005B93BD /* WPSideMenu.swift */,
-			);
-			path = class;
-			sourceTree = "<group>";
-		};
-		9636DC1B1FE122CF005B93BD /* base */ = {
-			isa = PBXGroup;
-			children = (
-				9636DC1C1FE122CF005B93BD /* WPAngleRuler.swift */,
-				9636DC1D1FE122CF005B93BD /* WPFreePathView.swift */,
-				9636DC1E1FE122CF005B93BD /* WPUndoManger */,
-			);
-			path = base;
-			sourceTree = "<group>";
-		};
-		9636DC1E1FE122CF005B93BD /* WPUndoManger */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = WPUndoManger;
-			sourceTree = "<group>";
-		};
-		9636DC361FE122CF005B93BD /* extension */ = {
-			isa = PBXGroup;
-			children = (
-				9636DC371FE122CF005B93BD /* WPExtension.swift */,
-			);
-			path = extension;
-			sourceTree = "<group>";
-		};
 		9636DC3B1FE122CF005B93BD /* icons */ = {
 			isa = PBXGroup;
 			children = (
@@ -315,21 +155,14 @@
 			path = icons;
 			sourceTree = "<group>";
 		};
-		9636DC5F1FE122CF005B93BD /* kernel */ = {
-			isa = PBXGroup;
-			children = (
-				9636DC601FE122CF005B93BD /* WPBaseEditorView.swift */,
-				9636DC611FE122CF005B93BD /* WPCropEditorView.swift */,
-				9636DC621FE122CF005B93BD /* WPSideMenu.swift */,
-			);
-			path = kernel;
-			sourceTree = "<group>";
-		};
 		9660253F1FAC45A200BEA651 = {
 			isa = PBXGroup;
 			children = (
-				9636DC171FE122CF005B93BD /* class */,
-				9636DC151FE1226E005B93BD /* Default-568h@2x.png */,
+				96E34379201AFEE800AB031E /* Default-568h@2x.png */,
+				9636DC6C1FE122CF005B93BD /* ViewController.swift */,
+				9636DC3B1FE122CF005B93BD /* icons */,
+				96E34378201AFEB600AB031E /* Main */,
+				96E34377201AFEA600AB031E /* kernel */,
 				966025491FAC45A200BEA651 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -340,6 +173,32 @@
 				966025481FAC45A200BEA651 /* imageEditor.app */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		96E34377201AFEA600AB031E /* kernel */ = {
+			isa = PBXGroup;
+			children = (
+				9636DC6D1FE122CF005B93BD /* WPAngleRuler.swift */,
+				9636DC6E1FE122CF005B93BD /* WPBaseEditorView.swift */,
+				9636DC6F1FE122CF005B93BD /* WPCropEditorView.swift */,
+				9636DC701FE122CF005B93BD /* WPExtension.swift */,
+				9636DC711FE122CF005B93BD /* WPFreePathView.swift */,
+				9636DC721FE122CF005B93BD /* WPSideMenu.swift */,
+			);
+			path = kernel;
+			sourceTree = "<group>";
+		};
+		96E34378201AFEB600AB031E /* Main */ = {
+			isa = PBXGroup;
+			children = (
+				9636DC5E1FE122CF005B93BD /* Info.plist */,
+				9636DC191FE122CF005B93BD /* AppDelegate.swift */,
+				9636DC1A1FE122CF005B93BD /* Assets.xcassets */,
+				9636DC1F1FE122CF005B93BD /* LaunchScreen.storyboard */,
+				9636DC211FE122CF005B93BD /* Main.storyboard */,
+				9636DC5C1FE122CF005B93BD /* ImageEditor2Nib.xib */,
+			);
+			path = Main;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -369,7 +228,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0830;
-				LastUpgradeCheck = 0910;
+				LastUpgradeCheck = 0920;
 				ORGANIZATIONNAME = pow;
 				TargetAttributes = {
 					966025471FAC45A200BEA651 = {
@@ -403,75 +262,42 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9636DC801FE122CF005B93BD /* crop_43.png in Resources */,
-				9636DC161FE1226E005B93BD /* Default-568h@2x.png in Resources */,
 				9636DC791FE122CF005B93BD /* Main.storyboard in Resources */,
-				9636DC851FE122CF005B93BD /* crop_image.png in Resources */,
-				9636DC8B1FE122CF005B93BD /* crop_triangle.png in Resources */,
 				9636DCB11FE122CF005B93BD /* ImageEditor2Nib.xib in Resources */,
 				9636DCA01FE122CF005B93BD /* crop_polygon.png in Resources */,
-				9636DC871FE122CF005B93BD /* crop_path_c.png in Resources */,
-				9636DC831FE122CF005B93BD /* crop_free.png in Resources */,
 				9636DCAB1FE122CF005B93BD /* rotate.png in Resources */,
 				9636DCA51FE122CF005B93BD /* fullCanvas_scaleFill.png in Resources */,
-				9636DC811FE122CF005B93BD /* crop_canvas.png in Resources */,
 				9636DCAA1FE122CF005B93BD /* redo.png in Resources */,
 				9636DC971FE122CF005B93BD /* crop_43.png in Resources */,
 				9636DCAF1FE122CF005B93BD /* rotate_right.png in Resources */,
-				9636DC8F1FE122CF005B93BD /* fullCanvas_scaleFill.png in Resources */,
-				9636DC841FE122CF005B93BD /* crop_free.selected.png in Resources */,
-				9636DC891FE122CF005B93BD /* crop_polygon.png in Resources */,
-				9636DC861FE122CF005B93BD /* crop_oval.png in Resources */,
-				9636DC901FE122CF005B93BD /* fullCanvas_scaleFit.png in Resources */,
-				9636DC7D1FE122CF005B93BD /* crop.png in Resources */,
 				9636DC921FE122CF005B93BD /* center.png in Resources */,
-				9636DCBF1FE122CF005B93BD /* undo.png in Resources */,
 				9636DC951FE122CF005B93BD /* crop.selected.png in Resources */,
 				9636DC941FE122CF005B93BD /* crop.png in Resources */,
 				9636DC781FE122CF005B93BD /* LaunchScreen.storyboard in Resources */,
-				9636DCB81FE122CF005B93BD /* mark2.png in Resources */,
 				9636DCAE1FE122CF005B93BD /* rotate_left.png in Resources */,
 				9636DCAD1FE122CF005B93BD /* rotate_90.png in Resources */,
 				9636DCA21FE122CF005B93BD /* crop_triangle.png in Resources */,
-				9636DC7A1FE122CF005B93BD /* cancel.png in Resources */,
-				9636DCB71FE122CF005B93BD /* mark.png in Resources */,
 				9636DCA81FE122CF005B93BD /* mark.png in Resources */,
 				9636DCB31FE122CF005B93BD /* Info.plist in Resources */,
 				9636DC751FE122CF005B93BD /* Assets.xcassets in Resources */,
-				9636DC7F1FE122CF005B93BD /* crop_169.png in Resources */,
 				9636DCA41FE122CF005B93BD /* fullCanvas.png in Resources */,
 				9636DCB01FE122CF005B93BD /* undo.png in Resources */,
 				9636DCA71FE122CF005B93BD /* index.png in Resources */,
-				9636DC821FE122CF005B93BD /* crop_circle.png in Resources */,
-				9636DCBB1FE122CF005B93BD /* rotate.selected.png in Resources */,
 				9636DC981FE122CF005B93BD /* crop_canvas.png in Resources */,
-				9636DC8C1FE122CF005B93BD /* done.png in Resources */,
-				9636DC7B1FE122CF005B93BD /* center.png in Resources */,
 				9636DC931FE122CF005B93BD /* center.selected.png in Resources */,
-				9636DCBD1FE122CF005B93BD /* rotate_left.png in Resources */,
 				9636DCA31FE122CF005B93BD /* done.png in Resources */,
-				9636DC8E1FE122CF005B93BD /* fullCanvas.png in Resources */,
 				9636DC9E1FE122CF005B93BD /* crop_path_c.png in Resources */,
-				9636DCB91FE122CF005B93BD /* redo.png in Resources */,
-				9636DC881FE122CF005B93BD /* crop_path_s.png in Resources */,
 				9636DC9D1FE122CF005B93BD /* crop_oval.png in Resources */,
 				9636DC911FE122CF005B93BD /* cancel.png in Resources */,
-				9636DCBA1FE122CF005B93BD /* rotate.png in Resources */,
 				9636DC961FE122CF005B93BD /* crop_169.png in Resources */,
-				9636DC7E1FE122CF005B93BD /* crop.selected.png in Resources */,
 				9636DC9F1FE122CF005B93BD /* crop_path_s.png in Resources */,
-				9636DCBC1FE122CF005B93BD /* rotate_90.png in Resources */,
 				9636DC9A1FE122CF005B93BD /* crop_free.png in Resources */,
 				9636DC9B1FE122CF005B93BD /* crop_free.selected.png in Resources */,
-				9636DC7C1FE122CF005B93BD /* center.selected.png in Resources */,
+				96E3437A201AFEE800AB031E /* Default-568h@2x.png in Resources */,
 				9636DCA91FE122CF005B93BD /* mark2.png in Resources */,
 				9636DCA61FE122CF005B93BD /* fullCanvas_scaleFit.png in Resources */,
 				9636DC9C1FE122CF005B93BD /* crop_image.png in Resources */,
-				9636DC8A1FE122CF005B93BD /* crop_square.png in Resources */,
-				9636DCB21FE122CF005B93BD /* index.png in Resources */,
-				9636DC731FE122CF005B93BD /* ape_fwk_all.png in Resources */,
 				9636DCAC1FE122CF005B93BD /* rotate.selected.png in Resources */,
-				9636DCBE1FE122CF005B93BD /* rotate_right.png in Resources */,
 				9636DCA11FE122CF005B93BD /* crop_square.png in Resources */,
 				9636DC991FE122CF005B93BD /* crop_circle.png in Resources */,
 			);
@@ -484,20 +310,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9636DC8D1FE122CF005B93BD /* WPExtension.swift in Sources */,
 				9636DCC51FE122CF005B93BD /* WPFreePathView.swift in Sources */,
 				9636DC741FE122CF005B93BD /* AppDelegate.swift in Sources */,
-				9636DC761FE122CF005B93BD /* WPAngleRuler.swift in Sources */,
 				9636DCC21FE122CF005B93BD /* WPBaseEditorView.swift in Sources */,
 				9636DCC11FE122CF005B93BD /* WPAngleRuler.swift in Sources */,
 				9636DCC61FE122CF005B93BD /* WPSideMenu.swift in Sources */,
-				9636DCB41FE122CF005B93BD /* WPBaseEditorView.swift in Sources */,
-				9636DCB51FE122CF005B93BD /* WPCropEditorView.swift in Sources */,
-				9636DC771FE122CF005B93BD /* WPFreePathView.swift in Sources */,
 				9636DCC41FE122CF005B93BD /* WPExtension.swift in Sources */,
 				9636DCC01FE122CF005B93BD /* ViewController.swift in Sources */,
 				9636DCC31FE122CF005B93BD /* WPCropEditorView.swift in Sources */,
-				9636DCB61FE122CF005B93BD /* WPSideMenu.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -635,7 +455,7 @@
 			buildSettings = {
 				CLANG_ENABLE_MODULES = YES;
 				DEVELOPMENT_TEAM = 387DLK86QQ;
-				INFOPLIST_FILE = "$(SRCROOT)/class/Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/Main/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.powWong.imageEditor;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -649,7 +469,7 @@
 			buildSettings = {
 				CLANG_ENABLE_MODULES = YES;
 				DEVELOPMENT_TEAM = 387DLK86QQ;
-				INFOPLIST_FILE = "$(SRCROOT)/class/Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/Main/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.powWong.imageEditor;
 				PRODUCT_NAME = "$(TARGET_NAME)";

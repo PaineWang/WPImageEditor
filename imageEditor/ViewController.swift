@@ -16,6 +16,7 @@ class ViewController: UIViewController {
 //        addEditorImageView(originalImage: UIImage.init(named: "ape_fwk_all")!)
         
         
+        
         // Do any additional setup after loading the view, typically from a nib.
     }
 
